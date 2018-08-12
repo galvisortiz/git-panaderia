@@ -1,0 +1,117 @@
+body{
+background-image: url(IMAGENES/mujer.jpg);
+background-size: 100% 100%;
+background-attachment: fixed;
+background-position: 200px 200px;
+
+
+}
+#principal{
+width: 900px;
+height: auto;overflow: hidden;
+border: 0px solid #000;
+margin: auto;
+
+}
+header{
+	width: 900px;
+	height: 150px;
+	background: #FA5882;
+	border: 0px solid #000;
+	margin: auto;
+}
+
+#logo{
+width: 300px;
+height: 150px;
+border: 0px solid #000;
+float: left;
+}
+.Menu{
+width:570px;
+height: 50px;
+
+float: right;
+margin-top: 40px;
+background:#F781D8;
+
+}
+.Menu ul{}
+
+.Menu ul li{
+list-style: none;
+float:right;
+
+}
+.Menu ul li a{
+text-decoration: none;
+padding: 10px 12px;
+border: 0px solid #ccc;
+color: #fff;
+}
+#slide{
+margin-top: 10px;
+width: 900px;
+height: 300px;
+
+}
+#categorias{
+width: 900px;
+height: auto;overflow: hidden;
+border: 0px solid;
+margin-top: 20px;
+
+}
+.uno{
+width: 280px;
+height: auto;overflow: hidden;
+border: 0px solid;
+float: left;
+padding: 5px;
+text-align:center;
+
+
+}
+.dos{
+margin-left: 12px;
+margin-right: 12px;
+
+
+}
+.Nuevo{
+	text-decoration: none;
+border: 1px solid #F5A9BC;
+padding: 10px 20px 10px 20px;
+margin: 10px,
+}
+.Sale{
+	text-decoration: none;
+border: 1px solid #F5A9BC;
+padding: 10px 20px 10px 20px;
+margin: 10px,
+}
+.Fragancia{
+	text-decoration: none;
+border: 1px solid #F5A9BC;
+padding: 10px 20px 10px 20px;
+margin: 10px,
+}
+
+.Nuevo:houver{
+	background:#F5A9BC;
+	color: #fff;
+	transition:background 1s,color1s;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
